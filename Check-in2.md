@@ -2,7 +2,7 @@
 
 ## Normalization & Schema Evolution: Recipe Finder Mobile Application
 
-**Abhiram Golkonda** · B855Q929 · Due: Week 11
+**Abhiram Golkonda** · B855Q929 · 
 
 ---
 
